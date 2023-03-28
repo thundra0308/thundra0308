@@ -4,7 +4,7 @@
 <h3 align="center">Competitive Programmer, Android Developer and Machine Learning Enthusiast</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Suryansh_Singh_Rajput-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suryansh-singh-rajput-03082001/)](https://www.linkedin.com/in/suryansh-singh-rajput-03082001/)
-[![Gmail Badge](https://img.shields.io/badge/-suryanshsingh03082001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suryanshsingh03082001@gmail.com)](mailto:suryanshsingh03082001@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/-esotericengineer2024@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:esotericengineer2024@gmail.com)](mailto:esotericengineer2024@gmail.com)  
 
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Anything Related to Android Development and Machine Learning**
 
-- 📫 How to reach me **suryanshsingh03082001@gmail.com**
+- 📫 How to reach me **esotericengineer2024@gmail.com**
 
 - 📄 Know about my experiences [![Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logoColor=white&link=https://drive.google.com/file/d/1G68AcZoMwp-ZYLsA37GuKrdT3ir4mWo3/view?usp=sharing/)](https://drive.google.com/file/d/1G68AcZoMwp-ZYLsA37GuKrdT3ir4mWo3/view?usp=sharing)
 
