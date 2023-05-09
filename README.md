@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/103625079/237056272-60eda5ad-bab5-4f72-990d-5f5428a73f3c.jpg)
 
 <h1 align="center">Hi 👋, I'm Suryansh</h1>
-<h3 align="center">Competitive Programmer, Android Developer and Machine Learning Enthusiast</h3>
+<h3 align="center"></h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Suryansh_Singh_Rajput-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suryansh-singh-rajput-03082001/)](https://www.linkedin.com/in/suryansh-singh-rajput-03082001/)
 [![Gmail Badge](https://img.shields.io/badge/-esotericengineer2024@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:esotericengineer2024@gmail.com)](mailto:esotericengineer2024@gmail.com)  
