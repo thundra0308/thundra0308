@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/103625079/237056272-60eda5ad-bab5-4f72-990d-5f5428a73f3c.jpg)
+![MasterHead](https://github.com/thundra0308/thundra0308/assets/103625079/ab7c5dc0-eb8e-42d5-9f7d-2aec7f0d2089)
 
 <h1 align="center">Hi 👋, I'm Suryansh</h1>
 <h3 align="center"></h3>
