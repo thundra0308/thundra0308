@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://user-images.githubusercontent.com/103625079/237048703-066ef001-d9b6-4c6a-8312-611bffec8424.jpg)
 
 <h1 align="center">Hi 👋, I'm Suryansh</h1>
 <h3 align="center">Competitive Programmer, Android Developer and Machine Learning Enthusiast</h3>
