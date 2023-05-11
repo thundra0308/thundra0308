@@ -1,4 +1,5 @@
 ![MasterHead](https://github.com/thundra0308/thundra0308/assets/103625079/ab7c5dc0-eb8e-42d5-9f7d-2aec7f0d2089)
+![output-onlinegiftools]()
 
 <h1 align="center">Hi 👋, I'm Suryansh</h1>
 <h3 align="center"></h3>
@@ -6,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Suryansh_Singh_Rajput-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suryansh-singh-rajput-03082001/)](https://www.linkedin.com/in/suryansh-singh-rajput-03082001/)
 [![Gmail Badge](https://img.shields.io/badge/-esotericengineer2024@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:esotericengineer2024@gmail.com)](mailto:esotericengineer2024@gmail.com)  
 
-<img align="right" src="https://user-images.githubusercontent.com/103625079/237060559-a6a879e6-c86e-43b2-a4b6-c63dbdfcac67.gif" alt="Coder GIF" width="380" height="">
+<img align="right" src="https://github.com/thundra0308/thundra0308/assets/103625079/0ea31b69-b546-4ad5-9881-65b04a684309" alt="Coder GIF" width="380" height="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thundra0308&label=Profile%20views&color=0e75b6&style=flat" alt="thundra0308" /> </p>
 
