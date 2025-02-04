@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thundra0308&label=Profile%20views&color=0e75b6&style=flat" alt="thundra0308" /> </p>
 
-- 🔭 I’m currently working on **Messenger Application for Android**
+- 🔭 I’m currently working on **E-Learning Application for Android**
 
 - 🌱 I’m currently learning **Machine Learning**
 
