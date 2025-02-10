@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **esotericengineer2024@gmail.com**
 
-- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logoColor=white&link=https://drive.google.com/file/d/1G68AcZoMwp-ZYLsA37GuKrdT3ir4mWo3/view?usp=sharing/)](https://suryanshsingh-androidresume.tiiny.site)
+- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logoColor=white&link=https://drive.google.com/file/d/1G68AcZoMwp-ZYLsA37GuKrdT3ir4mWo3/view?usp=sharing/)](https://bronze-ailyn-64.tiiny.site)
 
 - ⚡ Fun fact **You know, Code is like Humor, when you have to explain it, it's Bad.**
 
